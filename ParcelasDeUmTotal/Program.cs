@@ -10,6 +10,8 @@ namespace ParcelasDeUmTotal
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("testando");
+            Console.ReadKey();
         }
     }
 }
